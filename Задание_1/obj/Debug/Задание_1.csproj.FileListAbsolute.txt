@@ -1,0 +1,8 @@
+C:\Users\Asus\source\repos\Задание_1\Задание_1\bin\Debug\Задание_1.exe.config
+C:\Users\Asus\source\repos\Задание_1\Задание_1\bin\Debug\Задание_1.exe
+C:\Users\Asus\source\repos\Задание_1\Задание_1\bin\Debug\Задание_1.pdb
+C:\Users\Asus\source\repos\Задание_1\Задание_1\obj\Debug\Задание_1.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\Задание_1\Задание_1\obj\Debug\Задание_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\source\repos\Задание_1\Задание_1\obj\Debug\Задание_1.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Задание_1\Задание_1\obj\Debug\Задание_1.exe
+C:\Users\Asus\source\repos\Задание_1\Задание_1\obj\Debug\Задание_1.pdb
